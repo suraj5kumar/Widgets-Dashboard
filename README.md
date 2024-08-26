@@ -7,7 +7,7 @@ They can also add, remove and search for widgets.
 Clone the project
 
 ```bash
-  git clone https://github.com/suraj5kumar/Widgets-Dashboard
+  git clone https://github.com/suraj5kumar/Widgets-Dashboard.git
 ```
 
 Go to the project directory
