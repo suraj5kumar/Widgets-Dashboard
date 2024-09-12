@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 import { PlusSignIcon, RepeatIcon, Clock01Icon, ArrowDown01Icon } from 'hugeicons-react'
-import Context from '../context/context'
+import Context from '../Context/ContextFile'
 import Categories from './Categories'
 import Add_widget from './Add_widget'
 

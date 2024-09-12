@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from 'react'
-import Context from '../context/context'
+import Context from '../Context/ContextFile'
 const SearchWidget = () => {
   const { searchWidget, setsearchWidget, data } = useContext(Context)
   const [presentWidget, setpresentWidget] = useState([])

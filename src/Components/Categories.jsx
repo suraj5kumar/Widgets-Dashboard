@@ -1,7 +1,7 @@
 import React, { useContext } from 'react'
 // import dashboardData from '/Data/dashboardData'
 import { Cancel01Icon } from 'hugeicons-react'
-import Context from '../context/context'
+import Context from '../Context/ContextFile'
 const Categories = () => {
   const { setwidget, data, setdata } = useContext(Context)
 
