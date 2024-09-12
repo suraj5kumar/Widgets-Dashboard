@@ -1,6 +1,6 @@
 import React, { useContext, useEffect, useState } from 'react'
 import { MultiplicationSignIcon } from 'hugeicons-react'
-import Context from '../Context/context'
+import Context from '../context/context'
 import WidgetPersonalization from './WidgetPersonalization'
 import SearchWidget from './SearchWidget'
 const Add_widget = () => {

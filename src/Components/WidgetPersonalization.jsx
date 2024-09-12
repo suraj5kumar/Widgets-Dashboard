@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from 'react';
-import Context from '../Context/context';
+import Context from '../context/context';
 import WidgetForm from './WidgetForm';
 
 const WidgetPersonalization = () => {

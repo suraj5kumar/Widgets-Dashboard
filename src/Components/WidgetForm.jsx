@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from 'react';
-import Context from '../Context/context';
+import Context from '../context/context';
 
 const WidgetForm = () => {
   // State of default widget category name

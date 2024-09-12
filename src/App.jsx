@@ -1,7 +1,7 @@
 import React from 'react'
 import Top_navbar from './Components/Top_navbar'
 import CNAPP_Dashboard from './Components/CNAPP_Dashboard'
-import ContextState from './Context/ContextState'
+import ContextState from './context/ContextState'
 
 const App = () => {
   return (
